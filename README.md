@@ -1,4 +1,4 @@
-# RAG Model with audio iterface using Llama 3b model
+# RAG Model with audio interface using Llama 3b model
 
 This project demonstrates how to store data from a text file (e.g., a book) into Pinecone using Llama 3b and SentenceTransformer for embedding. The script reads a book, splits it into manageable chunks, generates embeddings for each chunk, and stores them in a Pinecone vector store to solve the queries.
 
